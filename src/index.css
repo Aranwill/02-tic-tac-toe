@@ -30,7 +30,7 @@ body {
 }
 
 .board {
-  width: fit-content;
+  width: max-content;
   margin: 40px auto;
   text-align: center;
 }
@@ -68,7 +68,7 @@ body {
   display: flex;
   justify-content: center;
   margin: 15px auto;
-  width: fit-content;
+  width: max-content;
   position: relative;
   border-radius: 10px;
 }
@@ -112,7 +112,7 @@ body {
 
 .winner .win {
   margin: 0 auto;
-  width: fit-content;
+  width: max-content;
   border: 2px solid #eee;
   border-radius: 10px;
   display: flex;
